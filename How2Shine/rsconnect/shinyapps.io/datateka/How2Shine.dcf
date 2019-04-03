@@ -1,0 +1,12 @@
+name: How2Shine
+title: How2Shine
+username:
+account: datateka
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 830140
+bundleId: 1979485
+url: https://datateka.shinyapps.io/How2Shine/
+when: 1554142923.84717
+asMultiple: FALSE
+asStatic: FALSE
