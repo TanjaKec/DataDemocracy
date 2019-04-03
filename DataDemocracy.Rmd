@@ -13,6 +13,15 @@ output:
       countIncrementalSlides: false
 ---
 class: inverse, middle
+### presentation available from: 
+
+####<https://tanjakec.github.io/DataDemocracy/DataDemocracy.html>
+
+### To download go to GitHub repo: 
+
+####<https://github.com/TanjaKec/DataDemocracy>
+---
+class: inverse, middle
 
 ##Data Democracy
 
